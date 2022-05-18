@@ -2,7 +2,7 @@ Linux/python utility to join gopro video file parts together, maintaining the gy
 
 ### Using
 
-Link join.py in ~/.local/bin or otherwise add it to your PATH
+Link join-gopro.py in ~/.local/bin or otherwise add it to your PATH
 
 And then, in any directory that contains gopro files, run
 
@@ -10,7 +10,7 @@ And then, in any directory that contains gopro files, run
 join-gopro.py
 ```
 
-All the appropriate gopro video parts in the current directory will be joined together.
+All the appropriate gopro video parts will be joined together.
 
 ### Credits
 
